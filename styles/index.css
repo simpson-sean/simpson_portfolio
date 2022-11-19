@@ -1,12 +1,21 @@
 body {
-    background-color: cornflowerblue;
+    background-color:dimgray;
+    width: auto;
+    height: auto;
 
 }
 
-.S1 {
-    border: red dashed 5px;
-    background-color: brown;
+.Header {
+    text-align: center;
+}
+
+.Nav1 {
+    border:darkorange dashed 1px;
+    background-color:darkgoldenrod;
     border-radius: 3px;
+    text-align: center;
+    margin-left: 20%;
+    margin-right: 20%;
     
 }
 
